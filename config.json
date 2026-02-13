@@ -25,66 +25,66 @@
     "prosConsSubtitle": "Nothing!!!!"
   },
   "media": {
-    "mainBearGif": "/assets/cute-bear.gif",
-    "musicBearGif": "/assets/music-bear.gif",
-    "comfortBearGif": "/assets/comfort-bear.gif",
-    "kissBearGif": "/assets/kiss-bears.gif",
-    "photoBearGif": "/assets/photo-bear.gif",
-    "loveYouBearGif": "/assets/love-you-bear.gif",
-    "childGif": "/assets/child.gif",
-    "roseBearGif": "/assets/rose-bear.gif",
-    "cookBearGif": "/assets/cook-bear.gif",
-    "kissSingleBearGif": "/assets/kiss-bear.gif",
-    "leftButton": "/assets/left-button.png",
+    "mainBearGif": "./assets/cute-bear.gif",
+    "musicBearGif": "./assets/music-bear.gif",
+    "comfortBearGif": "./assets/comfort-bear.gif",
+    "kissBearGif": "./assets/kiss-bears.gif",
+    "photoBearGif": "./assets/photo-bear.gif",
+    "loveYouBearGif": "./assets/love-you-bear.gif",
+    "childGif": "./assets/child.gif",
+    "roseBearGif": "./assets/rose-bear.gif",
+    "cookBearGif": "./assets/cook-bear.gif",
+    "kissSingleBearGif": "./assets/kiss-bear.gif",
+    "leftButton": "./assets/left-button.png",
     "rightButton": "/assets/right-button.png",
     "envelopeSeal": "❤️"
   },
   "gifts": {
-    "gift1": "/assets/gift/gift1.jpg",
-    "gift2": "/assets/gift/gift2.jpg", 
-    "gift3": "/assets/gift/gift3.jpg"
+    "gift1": "./assets/gift/gift1.jpg",
+    "gift2": "./assets/gift/gift2.jpg", 
+    "gift3": "./assets/gift/gift3.jpg"
   },
   "couplePhotos": [
     {
-      "image": "/assets/couple_photo/couple_photo_1.jpeg",
+      "image": "./assets/couple_photo/couple_photo_1.jpeg",
       "caption": "A Picture you like the most"
     },
     {
-      "image": "/assets/couple_photo/couple_photo_2.jpeg", 
+      "image": "./assets/couple_photo/couple_photo_2.jpeg", 
       "caption": "our frist date memories"
     },
     {
-      "image": "/assets/couple_photo/couple_photo_3.jpeg",
+      "image": "./assets/couple_photo/couple_photo_3.jpeg",
       "caption": "Our favorite music moments"
     },
     {
-      "image": "/assets/couple_photo/couple_photo_4.jpeg",
+      "image": "./assets/couple_photo/couple_photo_4.jpeg",
       "caption": "When you made me smile like this"
     },
     {
-      "image": "/assets/couple_photo/couple_photo_5.jpg",
+      "image": "./assets/couple_photo/couple_photo_5.jpg",
       "caption": "Our heart-to-heart talks"
     },
     {
-      "image": "/assets/couple_photo/couple_photo_6.jpeg",
+      "image": "./assets/couple_photo/couple_photo_6.jpeg",
       "caption": "Your comforting presence"
     }
   ],
   "prosCons": [
     {
-      "gif": "/assets/cook-bear.gif",
+      "gif": "./assets/cook-bear.gif",
       "text": "I'll cook your fav food like it's my love language 🍳"
     },
     {
-      "gif": "/assets/comfort-bear.gif", 
+      "gif": "./assets/comfort-bear.gif", 
       "text": "Unlimited comfort and care"
     },
     {
-      "gif": "/assets/cute-bear.gif",
+      "gif": "./assets/cute-bear.gif",
       "text": "I listen… like actually listen"
     },
     {
-      "gif": "/assets/kiss-bears.gif",
+      "gif": "./assets/kiss-bears.gif",
       "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
     },
     {
@@ -98,8 +98,8 @@
       "duration": "3:37",
       "album": "Ghajini",
       "artist": "",
-      "cover": "/assets/album-covers/ghajini.jpg",
-      "audio": "/assets/songs/Oru-Maalai.mp3"
+      "cover": "./assets/album-covers/ghajini.jpg",
+      "audio": "./assets/songs/Oru-Maalai.mp3"
     },
     {
       "id": 2,
